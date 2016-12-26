@@ -1,0 +1,26 @@
+{
+  "name": "testaws",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foovar/GameAWS.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foovar/GameAWS/issues"
+  },
+  "homepage": "https://github.com/Foovar/GameAWS#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ws": "^1.1.1"
+  }
+}
